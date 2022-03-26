@@ -53,3 +53,7 @@ tag yang ada di dalam table
 3. masukkan kode berikut ini
 
 ![2.png](img/2.png)
+
+refresh browsur maka akan menampilkan tabel sebagai berikut
+
+![2_2.png](img/2_2.png)
