@@ -57,3 +57,24 @@ tag yang ada di dalam table
 refresh browsur maka akan menampilkan tabel sebagai berikut
 
 ![2_2.png](img/2_2.png)
+
+
+cara menggabungkan tabel
+
+![3.png](img/3.png)
+
+
+## HTML Form
+
+1. membuat struktur html
+2. masukkan kode membuat Form maka akan tampil sebagai berikut
+
+![4.png](img/4.png)
+
+3. memberi sedikit style pada Form
+
+![5.png](img/5.png)
+
+4. memberikan dropdown dan list box
+
+![6.png](img/6.png)
